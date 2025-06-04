@@ -1,7 +1,7 @@
 <H3> Name : Udayakumar R</H3>
 <H3>Register No: 212222230163</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:23/04/2025</H3>
+<H3>DATE: 23/04/2025</H3>
 
 # Implementation of Bayesian Networks
 
@@ -26,7 +26,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-```py
+```python
 pip install pybbn
 
 import networkx as nx
